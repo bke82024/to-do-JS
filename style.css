@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-block: 10rem;
+}
+
+#list-header {
+  display: flex;
+  flex-direction: column;
+  border: 1px black solid;
+}
